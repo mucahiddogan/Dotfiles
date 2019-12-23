@@ -1,0 +1,130 @@
+kali icin
+echo "PermitRootLogin yes" >> /etc/ssh/sshd_config
+
+    1  sudo apt-get install synaptic
+    2  sudo apt-get install gnome-tweak-tool 
+    3  gnome-tweaks 
+    4  cat /etc/apt/sources.list
+    5  sudo apt-get install vim
+    6  vi /etc/apt/sources.list
+    7  sudo apt-get update
+    8  sudo apt-get upgrade
+    9  sudo apt-get dist-upgrade
+   10  gnome-tweaks 
+   11  shutdown now
+   12  sudo apt-get update
+   13  sudo apt-get upgrade
+   14  sudo apt-get dist-upgrade 
+   15  cd Downloads/
+   16  ls
+   17  sudo dpkg -i code_1.39.2-1571154070_amd64.deb 
+   18  dpkg -i code_1.39.2-1571154070_amd64.deb 
+   19  update-manager -c
+   20  sudo update-manager -c
+   21  sudo apt-get update
+   22  sudo apt-get upgrade
+   23  sudo apt-get dist-upgrade 
+   24  sudo apt-get autoremove
+   25  code 
+   26  chmod u+x VMware-Player-15.5.0-14665864.x86_64.bundle 
+   27  ./VMware-Player-15.5.0-14665864.x86_64.bundle 
+   28  sudo ./VMware-Player-15.5.0-14665864.x86_64.bundle 
+   29  sudo dpkg -i /Dow
+   30  sudo dpkg -i Downloads/code_1.39.2-1571154070_amd64.deb 
+   31  gnome-tweaks 
+   32  sudo apt-get install nmap
+   33  sudo apt-get install steghide
+   34  sudo apt-get install exiftool
+   35  cd Downloads/
+   36  ls
+   37  chmod u+x burpsuite_community_linux_v2_1_04.sh 
+   38  ./burpsuite_community_linux_v2_1_04.sh 
+   39  sudo apt-get install wireshark
+   40  wireshark 
+   41  sudo wireshark 
+   42  sudo apt-get install john
+   43  sudo apt-get install hashcat
+   44  sudo apt-get install beed
+   45  sudo apt-get install beef
+   46  sudo apt-get install hydra
+   47  sudo apt-get install macchanger
+   48  sudo apt-get install dig
+   49  dig 
+   50  sudo apt-get install traceroute
+   51  sudo apt-get install whatweb
+   52  sudo apt-get install whois 
+   53  sudo apt-get install dirb
+   54  sudo apt-get install set
+   55  sudo apt-get install httrack
+   56  sudo apt-get install wpscan
+   57  sudo apt-get install git
+   58  git config --global user.name "mucahiddogan"
+   59  git config --global user.name "mucahid.dogan@ceng.ktu.edu.tr"
+   60  sudo apt-get install sqlmap
+   61  pip install hashid
+   62  sudo apt-get install python-pip
+   63  pip install hashid
+   64  pip install hashid --no-warn-script-location
+   65  sudo apt-get install crunch
+   66  sudo apt-get install aircrack-ng 
+   67  sudo apt-get install build-essential libreadline-dev  libssl-dev libpq5 libpq-dev libreadline5 libsqlite3-dev libpcap-dev openjdk-7-jre subversion git-core autoconf postgresql pgadmin3 curl zlib1g-dev libxml2-dev libxslt1-dev vncviewer libyaml-dev ruby1.9.3
+   68  sudo apt-get install bettercap
+   69  sudo snap install bettercap
+   70  sudo apt-get install build-essential libpcap-dev net-tools
+   71  sudo apt-get install ettercap-graphical 
+   72  sudo apt-get install nikto
+   73  curl -sS https://download.spotify.com/debian/pubkey.gpg | sudo apt-key add - 
+   74  sudo apt-get install curl
+   75  curl -sS https://download.spotify.com/debian/pubkey.gpg | sudo apt-key add - 
+   76  echo "deb http://repository.spotify.com stable non-free" | sudo tee /etc/apt/sources.list.d/spotify.list
+   77  sudo apt-get update
+   78  sudo apt-get install spotify-client
+   79  sudo apt-get install sqlmap 
+   80  sudo apt-get install netcat
+   81  sudo apt-get install nessus
+   82  cd ..
+   83  history >> history26ekim2121
+   84  cat history26ekim2121 
+   85  spotify 
+   86  pip install django
+   87  django-admin
+   88  sudo pip install django
+   89  python3 --version
+   90  mkdir djangogirls
+   91  history >> history26ekim2134
+   92  gsettings set org.gnome.settings-daemon.peripherals.touchscreen orientation-lock true
+
+  127  cd djangogirls/
+  128  python3 -m venv myenv
+  129  sudo apt-get install python3-venv 
+  130  python3 -m venv myenv
+  131  source myenv/bin/activate
+  132  python3 -m pip install --upgrade pip
+  133  cd myenv/
+  134  ls
+  135  cd ..
+  136  touch requirements.txt
+  137  echo "Django" >> requirements.txt 
+  138  cat requirements.txt 
+  139  pip install -r requirements.txt 
+  140  curl https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/templates/metasploit-framework-wrappers/msfupdate.erb > msfinstall
+  141  chmod 755 msfinstall
+  142  ./msfinstall
+  143  msfdb init
+  144  msfupdate
+
+  481  sudo apt-get install libgdbm-dev libncurses5-dev automake libtool bison libffi-dev
+  482  gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+  483  curl -sSL https://get.rvm.io | bash -s stable
+  484  source ~/.rvm/scripts/rvm
+  485  rvm install 2.6.5
+  486  rvm use 2.6.5 --default
+  487  ruby -v
+  488  gem install bundler
+  489  gem install rails -v 6.0.0
+  490  rbenv rehash
+  491  rails -v
+  492  sudo apt-get install mysql-server mysql-client libmysqlclient-dev
+  493  sudo apt install postgresql-11 libpq-dev
+  494  sudo apt-get install ruby-bundler 
+sudo apt install clang make ruby-dev libffi-dev
